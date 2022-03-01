@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 remote_theme : alshedivat/al-folio
-title:  # the website title (if blank, full name will be used instead)
+title:  jmkim blog title # the website title (if blank, full name will be used instead)
 first_name: Jungmin
 middle_name: 
 last_name: Kim
